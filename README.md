@@ -10,3 +10,7 @@ I am a programming student at SENAI - Osasco
 ### My most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFaraum&layout=compact&theme=nightowl&border=3A218B)](https://github.com/anuraghazra/github-readme-stats)
+
+### Certifications:
+
+- CertiProf Scrum foundation professional certification SFPC
