@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaniloFaraum&show_icons=true&count_private=true&hide_border=true&title_color=DB6F35&icon_color=DB6F35&text_color=DB6F35&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFaraum&layout=compact&hide_border=true&title_color=DB6F35&text_color=DB6F35&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFaraum&hide=html,css&layout=compact&hide_border=true&title_color=DB6F35&text_color=DB6F35&bg_color=0d1117" />
 </div>
 
 <h2 align=center color: #DB6F35>Learning :</h2>
